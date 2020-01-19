@@ -5,3 +5,5 @@ space of given mxn matrix" problem through C programming is here, Kudos ;)
 ** to run this project :-
 -> run the main_function.c file in your C compilor.
 -> all other C files are already added as a header files in each other files, so don't worry about it. 
+
+** Project mates - Rahul Chocha, Jeet Karia, Mayank Tank
