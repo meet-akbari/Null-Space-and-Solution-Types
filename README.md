@@ -1,4 +1,4 @@
-# Null-Space-and-Solution-Types
+# Null Space and Solution Types
 This Project was created as the part of Linear Algebra Course in 3rd Semester of BTech at Ahmedabad University. The repo contains the implementation of finding Null Space of the given mxn matrix in C Programming. 
 
 ### How to execute the project
